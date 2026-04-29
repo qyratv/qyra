@@ -181,3 +181,21 @@ https://29073.live.streamtheworld.com/RAC_1.mp3
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="",nhk world
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv",CANAL 10 SV
+https://streamingcws30.com/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.pr",telemundo pr
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="TV.py",Paraguay TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar",TV PUBLICA
+https://edgetvp.global.ssl.fastly.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2.ar",canal 2
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-id="UNAM.mx",tv unam
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8
+#EXTINF:-1 tvg-id="RTU.ec",RTU ECUADOR
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe",Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="UCL.uy",UCL TV
+https://streamingmcbo.ddns.net:8081/ucltelevision/playlist.m3u8
