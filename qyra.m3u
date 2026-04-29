@@ -31,10 +31,6 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="",hch
 https://live.streamhch.com/live/streams/hch1.m3u8
-#EXTINF:-1 tvg-id="",dw espanol
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="Milenio TV.mx",MILENIO TV
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="Canal Institucional.co",canal institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV PERU.pe",TV PERU
@@ -47,13 +43,10 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
 https://25593.live.streamtheworld.com/LOS40.mp3
 #EXTINF:-1 tvg-id="ElTrece.ar",el trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
-#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec",Ecuavisa
+#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec",Ecuavisad2
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalSurA.TV",CANAL SUR
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-#EXTINF:-1 tvg-id="ETB Basque.es",etb basque
-#EXTVLCOPT:http-referrer=https://www.eitb.eus/
-https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642eeddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 #EXTINF:-1 tvg-id="",senal colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR 2.ro",tvr 2
@@ -72,8 +65,6 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Extremadura.TV",CANAL EXTREMADURA
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AragonTV.TV",aragon tv
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="TVR 3.ro",TVR 3
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR Cluj.ro",TVR CLUJ
@@ -92,8 +83,6 @@ https://pubads.g.doubleclick.net/ssai/event/xl2VClgXQmKB5abFGlmyZQ/master.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TVE_INTER.TV",tve internacional
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:-1 tvg-id="CMM.TV",cmm
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="Canal Once.mx",canal once
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 #EXTINF:-1 tvg-id="Canarias.TV",tv canaria
@@ -122,9 +111,6 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u
 https://flucast-rb03-03.flumotion.com/cope/net1.mp3
 #EXTINF:-1 tvg-id="KissFm.Radio",KISS FM
 https://kissfm.kissfmradio.cires21.com/kissfm.mp3
-#EXTINF:-1 tvg-id="Teleantioquia.co",teleantioquia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="",rtp memoria
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="",rtp 2
@@ -133,9 +119,6 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
 https://dreamsiteradiocp2.com/proxy/rmspain1?mp=/stream
 #EXTINF:-1 tvg-id="RNE3.Radio",RADIO 3
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
-#EXTINF:-1 tvg-id="",telemedellin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Moldova TV.ro",tvr moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR Folclor.ro",tvr folclor
@@ -175,13 +158,8 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main.m3u8
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8
 #EXTINF:-1 tvg-id="FlaixFM.Radio",flaix fm
 https://stream.flaixfm.cat/icecast
-#EXTINF:-1 tvg-id="BTV.TV",beteve
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 tvg-id="",parlamento tv chile
 https://janux-tv.senado.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co",telecaribe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co",telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-id="",canal extremadura radio
@@ -196,9 +174,6 @@ https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt",artv portugal
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/manifest.mpd
-#EXTINF:-1 tvg-id="Canal Luz.ar",canal luz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
-https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="CATRadio.Radio",CATALUNYA RADIO
 https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
 #EXTINF:-1 tvg-id="RadioEuskadi.Radio",RADIO EUSKADI
