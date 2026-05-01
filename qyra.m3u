@@ -259,3 +259,23 @@ https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 https://nimble.tuyapro.es/app/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleToledo.es",teleTOLEDO
 https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us",ABC news
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+#EXTINF:-1 tvg-id="CBSNewss.us",CBS news
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="Radiole.es",RADIO ole
+https://20103.live.streamtheworld.com/RADIOLEAAC_SC
+#EXTINF:-1 tvg-id="SKYNews.uk",SKY news
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
+#EXTINF:-1 tvg-id="CadenaSER.es",CADENA ser
+https://29073.live.streamtheworld.com/CADENASERAAC_SC
+#EXTINF:-1 tvg-id="HitFM.es",HIT fm
+http://hitfm.kissfmradio.cires21.com/hitfm.mp3
+#EXTINF:-1 tvg-id="Bloomberg.eu",BLOOMBERG tv
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="CanalSURRadio.es",canal SUR radio
+https://rtva-live-radio.flumotion.com/rtva/csr.mp3
+#EXTINF:-1 tvg-id="Vaughanradio.es",Vaughan RADIO
+http://cdn-peer032.streaming-pro.com:8057/vaughanradio.mp3
+#EXTINF:-1 tvg-id="KissFM.es",KISS fm
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
