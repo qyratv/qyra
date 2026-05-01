@@ -239,3 +239,23 @@ https://jireh-7-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://cdn1.etbon.eus/etb1/index.mpd
 #EXTINF:-1 tvg-id="TRECE.es",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4ManchaCentro.es",c4 mancha
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaCadiz.es",Onda Cadiz
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="ETB2.es",ETB 2
+https://cdn1.etbon.eus/etb2/index.mpd
+#EXTINF:-1 tvg-id="ElToroTV.es",el toro tv
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="TeleBILBAO.es",teleBILBAO
+https://player.telebilbao.es/hls/web-public/live.m3u8
+#EXTINF:-1 tvg-id="TeleValencia.es",TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="TORREvision.es",TORREvision
+https://canaltorremolinos-live.flumotion.cloud/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="teleONUBA.es",teleONUBA
+https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="TuyaTV.es",tuya TV
+https://nimble.tuyapro.es/app/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleToledo.es",teleTOLEDO
+https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
