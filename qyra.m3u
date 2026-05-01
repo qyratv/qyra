@@ -261,7 +261,7 @@ https://nimble.tuyapro.es/app/tv/playlist.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
 #EXTINF:-1 tvg-id="ABCNews.us",ABC news
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
-#EXTINF:-1 tvg-id="CBSNewss.us",CBS news
+#EXTINF:-1 tvg-id="CBSNews.us",CBS news
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="Radiole.es",RADIO ole
 https://20103.live.streamtheworld.com/RADIOLEAAC_SC
@@ -279,3 +279,23 @@ https://rtva-live-radio.flumotion.com/rtva/csr.mp3
 http://cdn-peer032.streaming-pro.com:8057/vaughanradio.mp3
 #EXTINF:-1 tvg-id="KissFM.es",KISS fm
 https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1 tvg-id="C-100.es",cadena 100
+https://cadena100-cope.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-id="OC.es",onda CERO
+https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
+#EXTINF:-1 tvg-id="esRadio.es",esRADIO
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+#EXTINF:-1 tvg-id="RNE.es",RADIO nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:-1 tvg-id="40UR.es",los40 URBAN
+https://25593.live.streamtheworld.com/LOS40_URBAN.mp3
+#EXTINF:-1 tvg-id="40CL.es",los40 CLASSIC
+https://27913.live.streamtheworld.com/LOS40_CLASSIC.mp3
+#EXTINF:-1 tvg-id="AmericaTV.pe",America TV
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16366
+#EXTINF:-1 tvg-id="40DC.es",los40 DANCE
+https://29103.live.streamtheworld.com/LOS40_DANCE.mp3
+#EXTINF:-1 tvg-id="CadenaDial.es",CADENA dial
+https://22653.live.streamtheworld.com/CADENADIAL.mp3
+#EXTINF:-1 tvg-id="CadenaDial.es",CADENA dial
+https://22653.live.streamtheworld.com/CADENADIAL.mp3
