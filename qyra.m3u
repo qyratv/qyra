@@ -297,5 +297,39 @@ https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16366
 https://29103.live.streamtheworld.com/LOS40_DANCE.mp3
 #EXTINF:-1 tvg-id="CadenaDial.es",CADENA dial
 https://22653.live.streamtheworld.com/CADENADIAL.mp3
-#EXTINF:-1 tvg-id="CadenaDial.es",CADENA dial
-https://22653.live.streamtheworld.com/CADENADIAL.mp3
+#EXTINF:-1 tvg-id="TRTWorld.tr",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Canal11.sv",once
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal2.sv",Canal Doce
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="i24News.il",i24 news
+https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="MelodiaFM.es",Melodia
+https://playerservices.streamtheworld.com/api/livestream-redirect/MELODIA_FMAAC.m3u8
+#EXTINF:-1 tvg-id="Walivision.hn",Walivision
+https://tuvideoonline.com.ar:3518/live/tnnlive.m3u8
+#EXTINF:-1 tvg-id="HitFM.es",HIT FM
+https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+#EXTINF:-1 tvg-id="Teleceiba.hn",Teleceiba
+https://teleceiba.com/stream/tlcb720.m3u8
+#EXTINF:-1 tvg-id="AgapeTV.sv",Agape TV
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/index.m3u8
+#EXTINF:-1 tvg-id="ArirangWorld.kr",Arirang World
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Enlace.latam",Enlace
+https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal27.gt",Canal 27
+https://ch1-c27.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Televicentro.hn",Televicentro
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+#EXTINF:-1 tvg-id="Teleprogreso.hn",Teleprogreso
+https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MuyBuena.es",Muy Buena
+https://stream2.mediasector.es/muybuena-madrid-DAB
+#EXTINF:-1 tvg-id="SuyapaTV.hn",Suyapa TV
+https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
+#EXTINF:-1 tvg-id="LocaFM.es",Loca FM
+https://s3.we4stream.com:2020/stream/locafm
+#EXTINF:-1 tvg-id="LocaFM.es",Guatevision
+https://s3.we4stream.com:2020/stream/locafm
