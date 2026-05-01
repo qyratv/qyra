@@ -28,7 +28,7 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
 https://25593.live.streamtheworld.com/LOS40.mp3
 #EXTINF:-1 tvg-id="ElTrece.ar",el trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
-#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec",Ecuavisad2
+#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec",Ecuavisa
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalSurA.TV",CANAL SUR
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642eeddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
